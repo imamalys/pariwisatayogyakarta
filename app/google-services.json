@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "972956086910",
+    "firebase_url": "https://pariwisata-yogyakarta.firebaseio.com",
+    "project_id": "pariwisata-yogyakarta",
+    "storage_bucket": "pariwisata-yogyakarta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972956086910:android:f966d76629e4d7ab",
+        "android_client_info": {
+          "package_name": "appdevelope.imamalys.id.pariwisatayogyakarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972956086910-s1vt3gul20o60m8qjekn0g284dpth3tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appdevelope.imamalys.id.pariwisatayogyakarta",
+            "certificate_hash": "d0bc16a9ce0f8260f33e116096878d67bfe50ce3"
+          }
+        },
+        {
+          "client_id": "972956086910-m0e5siuuj3kkmi4ic9ilq0vug381d0hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknMLHTXhYuou7IQnwuNkz8W9fV1BUlBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972956086910-m0e5siuuj3kkmi4ic9ilq0vug381d0hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
